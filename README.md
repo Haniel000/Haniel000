@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá! Eu sou Filipe Haniel 👋
 
-<!--
-**Haniel000/Haniel000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack em formação  
+Interessado em desenvolvimento de aplicações web  
+Sempre buscando aprender e evoluir como desenvolvedor
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-end
+- JavaScript
+- TypeScript
+- React
+
+### Back-end
+- Node.js
+- Python
+- FastAPI
+- Java
+
+### Banco de Dados
+- MySQL
+
+### Outros conhecimentos
+- Programação Orientada a Objetos (POO)
+- MVC
+- Java Swing
+
+## 🚀 Projeto em destaque
+
+### Sentry
+
+Sistema de gerenciamento de chamados desenvolvido como projeto de TCC no SENAI.
+
+O Sentry foi desenvolvido para permitir o registro, acompanhamento
+e gerenciamento de chamados, centralizando informações em uma
+aplicação web.
+
+**Tecnologias:** React, TypeScript, Python, FastAPI, MySQL
+
+🔗 [Ver projeto no GitHub](https://github.com/Gravthar/sentry)
